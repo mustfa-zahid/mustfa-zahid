@@ -1,4 +1,12 @@
-# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/41a80708-db4e-485b-8fa6-4a48510655ce" /> About Me:
+# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/41a80708-db4e-485b-8fa6-4a48510655ce" /> <style>
+  .about-me {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+  }
+</style>
+
+<span class="about-me">About Me</span>
+
 Hey there! I'm a passionate UI/UX designer who thrives on crafting intuitive digital experiences and bringing them to life, whether through sleek, responsive front-end code or custom WordPress websites. I'm always up for collaborating on creative design projects—be it landing pages, SaaS platforms, or app interfaces that need a thoughtful, user-centered touch. Currently, I'm diving deeper into advanced interaction design, motion UI, and leveling up my skills with React and headless CMS integrations. If you're curious about design workflows, wireframing, prototyping, or how to nail that Figma-to-code handoff (with accessibility baked in!), let's chat. I'm also on the lookout for awesome folks to help build open-source UI kits and partner up on front-end implementations. Oh, and fun fact: I have a thing for turning dull wireframes into eye-catching interfaces—and yes, I firmly believe whitespace is design’s secret weapon.
 
 
