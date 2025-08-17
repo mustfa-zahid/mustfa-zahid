@@ -53,5 +53,3 @@ Hey there! I'm a passionate UI/UX designer who thrives on crafting intuitive dig
 
 ### <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/eb1404c3-8b60-4328-8167-cb7d4416b06e" /> You can help me by donating:
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/obstinate) 
-
-  
