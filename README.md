@@ -2,7 +2,7 @@
 Hey there! I'm a passionate UI/UX designer who thrives on crafting intuitive digital experiences and bringing them to life, whether through sleek, responsive front-end code or custom WordPress websites. I'm always up for collaborating on creative design projects—be it landing pages, SaaS platforms, or app interfaces that need a thoughtful, user-centered touch. Currently, I'm diving deeper into advanced interaction design, motion UI, and leveling up my skills with React and headless CMS integrations. If you're curious about design workflows, wireframing, prototyping, or how to nail that Figma-to-code handoff (with accessibility baked in!), let's chat. I'm also on the lookout for awesome folks to help build open-source UI kits and partner up on front-end implementations. Oh, and fun fact: I have a thing for turning dull wireframes into eye-catching interfaces—and yes, I firmly believe whitespace is design’s secret weapon.
 
 
-# <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/5706e01b-1c97-4fa3-85ec-89533fff14e2" /> Socials:
+# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/5706e01b-1c97-4fa3-85ec-89533fff14e2" /> Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/obstinate)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mustafa_zahid)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white)](https://dribbble.com/mustafazahid)
@@ -15,7 +15,7 @@ Hey there! I'm a passionate UI/UX designer who thrives on crafting intuitive dig
 
 
 
-# <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/06196864-9550-4437-9c41-c000ed253e87" /> Design:
+# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/6b64b36b-4053-4395-bad1-5b07ee985b5c" /> Design:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
