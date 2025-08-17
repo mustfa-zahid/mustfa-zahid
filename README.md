@@ -41,8 +41,8 @@ Hey there! I'm a passionate UI/UX designer who thrives on crafting intuitive dig
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/81902430-3dd8-4e2b-b5bc-f42892925fd5" /> GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mustfa-zahid&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mustfa-zahid&theme=default_repocard&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mustfa-zahid&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=mustfa-zahid&theme=default_repocard&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustfa-zahid&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/ebabc4d2-bffd-46d2-b9e9-5df2d9b9bf21" /> GitHub Trophies
