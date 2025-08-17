@@ -15,7 +15,7 @@ Hey there! I'm a passionate UI/UX designer who thrives on crafting intuitive dig
 
 
 
-# Design:
+# <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/06196864-9550-4437-9c41-c000ed253e87" /> Design:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
