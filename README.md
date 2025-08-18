@@ -5,6 +5,7 @@ Hey there! I'm a passionate UI/UX designer who thrives on crafting intuitive dig
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/obstinate)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mustafa_zahid)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white)](https://dribbble.com/mustafazahid)
+[![Framer](https://img.shields.io/badge/Framer-0055FF?logo=framer&logoColor=white)](https://mustafazahid.framer.website/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mustfa-zahid)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafazahid00112@gmail.com)
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white)](https://pinterest.com/mustafazahid1)
