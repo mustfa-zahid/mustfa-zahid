@@ -1,7 +1,7 @@
 ## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/41a80708-db4e-485b-8fa6-4a48510655ce" /> About me:
 Hey there! I'm a passionate UI/UX designer who thrives on crafting intuitive digital experiences and bringing them to life, whether through sleek, responsive front-end code or custom WordPress websites. I'm always up for collaborating on creative design projects, be it landing pages, SaaS platforms, or app interfaces that need a thoughtful, user-centered touch. Currently, I'm diving deeper into advanced interaction design, motion UI, and leveling up my skills with React and headless CMS integrations. If you're curious about design workflows, wireframing, prototyping, or how to nail that Figma-to-code handoff (with accessibility baked in!), let's chat. I'm also on the lookout for awesome folks to help build open-source UI kits and partner up on front-end implementations. Oh, and fun fact: I have a thing for turning dull wireframes into eye-catching interfaces, and yes, I firmly believe whitespace is design’s secret weapon.
 
-## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/5706e01b-1c97-4fa3-85ec-89533fff14e2" /> Socials:
+## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/a3153b49-e228-46fd-89cf-7195866148da" /> Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/obstinate)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mustafa_zahid)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white)](https://dribbble.com/mustafazahid)
@@ -45,7 +45,7 @@ Hey there! I'm a passionate UI/UX designer who thrives on crafting intuitive dig
 ![](https://nirzak-streak-stats.vercel.app/?user=mustfa-zahid&theme=default_repocard&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustfa-zahid&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/ebabc4d2-bffd-46d2-b9e9-5df2d9b9bf21" /> GitHub Trophies
+## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/35466db4-8567-48ab-b533-301cd8d5ef9c" /> GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mustfa-zahid&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
 
 ## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/d6103652-bf9f-46f5-ab06-e1b5292acbfa" /> Random Dev Quote:
