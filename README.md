@@ -1,16 +1,12 @@
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/41a80708-db4e-485b-8fa6-4a48510655ce" /> About me:
-Software Engineering graduate with a focus on UI UX design and WordPress website development. I build clean, responsive, and user friendly websites that are optimized for speed, security, and performance. My work includes custom WordPress design, website optimization, malware removal, and smooth migrations. Passionate about creating practical digital solutions that improve user experience and business results.
+Software Engineering graduate with a focus on UI UX design and WordPress website development. I build clean, responsive, and user-friendly websites that are optimized for speed, security, and performance. My work includes custom WordPress design, website optimization, malware removal, and smooth migrations. Passionate about creating practical digital solutions that improve user experience and business results.
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/a3153b49-e228-46fd-89cf-7195866148da" /> Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/obstinate)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mustafa_zahid)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white)](https://dribbble.com/mustafazahid)
 [![Framer](https://img.shields.io/badge/Framer-0055FF?logo=framer&logoColor=white)](https://mustafazahid.framer.website/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mustfa-zahid)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafazahid00112@gmail.com)
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white)](https://pinterest.com/mustafazahid1)
-[![Quora](https://img.shields.io/badge/Quora-B92B27?logo=quora&logoColor=white)](https://quora.com/profile/Ali-Mustafa-346)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://reddit.com/user/Unfair_Reflection_15)
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6b64b36b-4053-4395-bad1-5b07ee985b5c" /> Design:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -19,11 +15,6 @@ Software Engineering graduate with a focus on UI UX design and WordPress website
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/draw.io-%230075C2.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![Microsoft Visio](https://img.shields.io/badge/Visio-2B579A?style=for-the-badge&logo=microsoftvisio&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
-![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white)
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/e5ee3447-6b47-424f-852c-dba8c560381e" /> Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,8 +30,6 @@ Software Engineering graduate with a focus on UI UX design and WordPress website
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/81902430-3dd8-4e2b-b5bc-f42892925fd5" /> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustfa-zahid&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
